@@ -27,6 +27,14 @@ export default function Portfolio() {
                 link="https://house-hunter-phi.vercel.app/"
               />
 
+              <Gallery 
+                src="/images/paul.png"
+                alt="Image of Paul"
+                head="Paul's site"
+                text="Site"
+                link="https://personal-site-six-ashy.vercel.app/"
+              />
+
             </div>
         </div>
 
