@@ -1,0 +1,27 @@
+
+.media {
+    padding: 6px 0;
+    line-height: normal;
+    display: flex;
+    align-items: flex-start;
+}
+.media label {
+    margin: 0;
+    color: #090a0c;
+    font-weight: 500;
+    font-size: 14px;
+    flex: 0 0 90px;
+    border-right: 1px solid #c1c1c1;
+    max-width: 90px;
+    display: inline-block;
+}
+.media p {
+    padding-left: 15px;
+    font-size: 13px;
+}
+
+@media (min-width: 992px) {
+    .media p {
+        padding-left: 10px;
+    }
+}

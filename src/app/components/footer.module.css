@@ -1,0 +1,35 @@
+
+.nav {
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+}
+.nav a {
+    color: rgba(255, 255, 255, 0.5);
+    font-size: 14px;
+    margin-right: 19px;
+    text-decoration: none;
+    margin-top: 10px;
+}
+.nav a:hover {
+    color: #fff;
+}
+.para {
+    color: rgba(255, 255, 255, 0.5);
+    font-size: 12px;
+    margin-top: 10px;
+}
+
+@media (min-width: 768px) {
+    .para {
+        text-align: right !important;
+    }
+}
+
+@media (max-width: 768px) {
+    .nav {
+        justify-content: center !important;
+    }
+}
