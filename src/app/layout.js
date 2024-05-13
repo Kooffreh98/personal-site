@@ -1,12 +1,10 @@
-import Script from 'next/script'
+import Script from 'next/script';
 
 
 export const metadata = {
   title: "Paul's site",
   description: "Paul Kooffreh's personal portfolio site",
-  icons: {
-    icon: '/favicon.ico',
-  },
+  
 };
 
 export default function RootLayout({ children }) {
