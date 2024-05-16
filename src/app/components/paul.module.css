@@ -160,6 +160,10 @@
     padding: 10px 20px;
     font-weight: 500;
     border-radius: 2px;
+    text-decoration: none;
+    font-size: 15px !important;
+    line-height: inherit;
+    display: inline-block;
 }
 .btn:hover {
     background: #090a0c;

@@ -62,7 +62,7 @@ export default function About() {
 
                     </div>
 
-                    <div style={{marginTop: "30px"}}><button className={styles.btn}>Download CV</button></div>
+                    <div style={{marginTop: "30px"}}><a className={styles.btn} href="images/Paul's updated CV.pdf" download="Paul's updated CV.pdf">Download CV</a></div>
 
                   </div>
 
