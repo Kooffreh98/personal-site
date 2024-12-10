@@ -31,8 +31,8 @@ export default function Skills() {
                     <div className={styles.skillIt}>
                        <h6>TypeScript</h6>
                        <div className={styles.skillBar}>
-                          <div  className={styles.innerBar} role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style={{width: "75%"}}>
-                            <span>75%</span>
+                          <div  className={styles.innerBar} role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100" style={{width: "85%"}}>
+                            <span>85%</span>
                           </div>
                        </div>
                     </div>
@@ -40,8 +40,8 @@ export default function Skills() {
                     <div className={styles.skillIt}>
                        <h6>Next.js</h6>
                        <div className={styles.skillBar}>
-                          <div  className={styles.innerBar} role="progressbar" aria-valuenow="89" aria-valuemin="0" aria-valuemax="100" style={{width: "89%"}}>
-                            <span>89%</span>
+                          <div  className={styles.innerBar} role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style={{width: "90%"}}>
+                            <span>90%</span>
                           </div>
                        </div>
                     </div>
@@ -76,10 +76,10 @@ export default function Skills() {
                     </div>
 
                     <div className={styles.skillIt}>
-                       <h6>Ionic</h6>
+                       <h6>React Native</h6>
                        <div className={styles.skillBar}>
-                          <div className={styles.innerBar} role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style={{width: "70%"}}>
-                            <span>70%</span>
+                          <div className={styles.innerBar} role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style={{width: "80%"}}>
+                            <span>80%</span>
                           </div>
                        </div>
                     </div>

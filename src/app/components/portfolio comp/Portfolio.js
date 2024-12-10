@@ -35,6 +35,14 @@ export default function Portfolio() {
                 link="https://personal-site-six-ashy.vercel.app/"
               />
 
+              <Gallery 
+                src="/images/schwarz-entertainment.svg"
+                alt="Schwarz Entertainment logo"
+                head="Schwarz Entertainment"
+                text="Site"
+                link="https://schwarz-entertainment.netlify.app/"
+              />
+
             </div>
         </div>
 
