@@ -43,6 +43,14 @@ export default function Portfolio() {
                 link="https://schwarz-entertainment.netlify.app/"
               />
 
+              <Gallery 
+                src="/images/Frame.png"
+                alt="draycore-med logo"
+                head="Draycore med"
+                text="Site"
+                link="https://draycore-med-tau.vercel.app/"
+              />
+
             </div>
         </div>
 
